@@ -1,0 +1,20 @@
+{
+  "rscript": "Rscript",
+  "python": "python",
+  "le8_source_table": "/restricted/path/le8_source_table.csv",
+  "frozen_full_cohort": "/restricted/path/full_cohort.csv",
+  "frozen_mri_cohort": "/restricted/path/mri_cohort.csv",
+  "cohort_flow": "/restricted/path/cohort_flow.csv",
+  "combined_mri_features": "/restricted/path/combined_mri_features.dta",
+  "brain_age_health_source": "/restricted/path/brain_age_health_source.csv",
+  "combined_candidate_predictions": "/restricted/path/candidate_predictions_all.csv",
+  "ckd_participants": "/restricted/path/ckd_participant_index_and_censoring.csv",
+  "ckd_coded_events": "/restricted/path/code_qualified_ckd_events.csv",
+  "ckd_laboratory_measurements": "/restricted/path/longitudinal_kidney_laboratory.csv",
+  "modality_predictions": "/restricted/path/modality_brain_age_predictions.csv",
+  "egfr_progression_subset": "/restricted/path/analysis_ready_eGFR_progression_subset.csv",
+  "diffusion_tract_features": "/restricted/path/core_diffusion_features_oos.csv",
+  "diffusion_tract_map": "/restricted/path/UKB_core_diffusion_tract_map_analysis.csv",
+  "figure_table_root": "/restricted/path/submission_tables",
+  "brain_age_figure_source": "/restricted/path/brain_age_model_outputs"
+}

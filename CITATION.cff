@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "LE8, incident CKD, and multimodal brain-aging analyses"
+message: "If you use this code, please cite the accompanying manuscript and this software release."
+type: software
+authors:
+  - given-names: Lianqin
+    family-names: Chen
+  - given-names: Xian
+    family-names: Shao
+  - given-names: Hongyan
+    family-names: Liu
+  - given-names: Yao
+    family-names: Lin
+  - given-names: Ying
+    family-names: Li
+  - given-names: Tingting
+    family-names: Jin
+  - given-names: Pei
+    family-names: Yu
+version: 1.0.0
+license: MIT

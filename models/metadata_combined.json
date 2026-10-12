@@ -1,0 +1,17 @@
+{
+  "algorithm": "LASSO",
+  "selector": "FeatureWiz",
+  "alpha": 0.01222583744483146,
+  "source_features": 1816,
+  "selected_features": 823,
+  "nonzero_coefficients": 543,
+  "maximum_mri_missing_proportion": 0.2,
+  "age_bias_intercept": 14.4168,
+  "age_bias_slope": 0.7721501,
+  "training_sample": "Healthy train",
+  "training_n": 5507,
+  "seed": 20260714,
+  "numpy_version": "1.26.4",
+  "scikit_learn_version": "1.5.2",
+  "joblib_version": "1.5.3"
+}
